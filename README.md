@@ -22,7 +22,10 @@ I'm a passionate Full Stack Developer with expertise in Ruby on Rails and ReactJ
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow"><img src="https://raw.githubusercontent.com/surekhagagaliya/surekhagagaliya/main/icons/html5.svg" width="36" height="36" alt="HTML5" style="max-width: 100%;"></a>
   <a href="https://getbootstrap.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/surekhagagaliya/surekhagagaliya/main/icons/bootstrap.svg" width="38" height="38" alt="Bootstrap" style="max-width: 100%;"></a>
   <a href="https://www.w3.org/TR/CSS/#css" rel="nofollow"><img src="https://raw.githubusercontent.com/surekhagagaliya/surekhagagaliya/main/icons/css3.svg" width="36" height="36" alt="CSS3" style="max-width: 100%;"></a>
+  <a href="https://tailwindcss.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/surekhagagaliya/surekhagagaliya/main/icons/tailwindcss.svg" width="36" height="36" alt="TailwindCSS" style="max-width: 100%;"></a>
   <a href="https://www.postgresql.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/surekhagagaliya/surekhagagaliya/main/icons/postgresql.svg" width="36" height="36" alt="PostgreSQL" style="max-width: 100%;"></a>
+  <a href="https://en.wikipedia.org/wiki/API" rel="nofollow"><img src="https://raw.githubusercontent.com/surekhagagaliya/surekhagagaliya/main/icons/api.svg" width="36" height="36" alt="API" style="max-width: 100%;"></a>
+  <a href="https://aws.amazon.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/surekhagagaliya/surekhagagaliya/main/icons/aws.svg" width="36" height="36" alt="AWS" style="max-width: 100%;"></a>
 </p>
 
 ## Projects
@@ -42,7 +45,13 @@ I'm always open to collaboration and networking opportunities. You can reach out
 
 <p dir="auto">
   <a href="https://www.linkedin.com/in/surekha-gagaliya" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/surekhagagaliya/surekhagagaliya/main/icons/linkedin.svg" width="32" height="32" style="max-width: 100%;">
+  </a>
+  <a href="https://twitter.com/Surekhamayurk" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/surekhagagaliya/surekhagagaliya/main/icons/twitter.svg" width="32" height="32" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/surekhagagaliya" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/surekhagagaliya/surekhagagaliya/main/icons/github.svg" width="32" height="32" style="max-width: 100%;">
   </a>
 </p>
 
