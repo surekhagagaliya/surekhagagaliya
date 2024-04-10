@@ -26,6 +26,7 @@ I'm a passionate Full Stack Developer with expertise in Ruby on Rails and ReactJ
   <a href="https://www.postgresql.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/surekhagagaliya/surekhagagaliya/main/icons/postgresql.svg" width="36" height="36" alt="PostgreSQL" style="max-width: 100%;"></a>
   <a href="https://en.wikipedia.org/wiki/API" rel="nofollow"><img src="https://raw.githubusercontent.com/surekhagagaliya/surekhagagaliya/main/icons/api.svg" width="36" height="36" alt="API" style="max-width: 100%;"></a>
   <a href="https://aws.amazon.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/surekhagagaliya/surekhagagaliya/main/icons/aws.svg" width="36" height="36" alt="AWS" style="max-width: 100%;"></a>
+  <a href="https://aws.amazon.com/" rel="nofollow"><img src="https://github.com/surekhagagaliya/alpha-blob/blob/master/app/assets/images/image_01.jpg" width="36" height="36" alt="AWS" style="max-width: 100%;"></a>
 </p>
 
 ## Projects
