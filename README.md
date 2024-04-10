@@ -47,7 +47,7 @@ I'm always open to collaboration and networking opportunities. You can reach out
   <a href="https://www.linkedin.com/in/surekha-gagaliya" rel="nofollow"><img src="https://raw.githubusercontent.com/surekhagagaliya/surekhagagaliya/main/icons/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a>
   <a href="https://twitter.com/Surekhamayurk" rel="nofollow"><img src="https://raw.githubusercontent.com/surekhagagaliya/surekhagagaliya/main/icons/twitter.svg" width="32" height="32" style="max-width: 100%;"></a>
   <a href="https://github.com/surekhagagaliya" rel="nofollow"><img src="https://raw.githubusercontent.com/surekhagagaliya/surekhagagaliya/main/icons/github.svg" width="32" height="32" style="max-width: 100%;"></a>
-  <a href="mailto:surekhagagaliya@gmail.com" rel="nofollow"><img src="https://raw.githubusercontent.com/surekhagagaliya/surekhagagaliya/main/icons/gmail.svg" width="32" height="32" style="max-width: 100%;"></a>
+  <a href="mailto:surekhagagaliya@gmail.com" rel="nofollow"><img src="https://raw.githubusercontent.com/surekhagagaliya/surekhagagaliya/main/icons/email.svg" width="42" height="42" style="max-width: 100%;"></a>
 </p>
 
 Let's connect and build something awesome together! 🚀
